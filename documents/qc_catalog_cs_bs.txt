@@ -1,0 +1,117 @@
+QUEENS COLLEGE
+Computer Science BS
+FOUR YEAR ACADEMIC PLAN
+12 Required Core Credits
+18 Flexible Core Credits
+12 College Option Credits
+78/79Major Credits
+0 Elective Credits
+This 4-year academic plan is for freshmen entering Queens College in Fall 2022.
+Our 4-year academic plans are illustrative examples of integrated degree requirements
+and course sequencing for each of the College’s programs of study which are designed to
+ensure degree completion in a timely manner. Students are advised to meet with
+professional and faculty advisors to tailor their degree maps to their individual interests
+(academic and career goals), as well as other considerations including course offerings
+and the incorporation of winter and summer sessions. Course pre-requisite/s and corequisite/s are strictly enforced, as are entrance and maintenance criteria (if applicable)
+for the successful completion of the degree.
+QUEENS COLLEGE
+Computer Science BS
+FOUR YEAR ACADEMIC PLAN
+FALL
+English Composition I (EC1) 3 credits
+World Cultures & Global Issues (WCGI) 3 credits
+U.S Experience in its Diversity (USED) 3 credits
+Creative Expression (CE) 3 credits
+MATH 151¥ (MQR) 4 credits
+Calculus I
+Fall total credits 16 credits
+SPRING
+English Composition II (EC2) 3 credits
+Individual and Society (IS) 3 credits
+An Additional Flexible Core 3 credits
+College Option Literature (LIT+W) 3 credits
+With Writing Intensive Unit *
+Math 152¥ 4 credits
+Calculus II
+Spring total credits 16 credits
+Sophomore
+FALL
+CSCI 111 3 credits
+Introduction to Algorithmic Problem Solving
+MATH 120β 3 credits
+Discrete Mathematics
+An Additional College Core 3 credits
+Scientific World (SW) 3 credits
+College Option Language (LANG) 4 credits
+Fall total credits 16 credits
+SPRING
+CSCI 211 3 credits
+OOP in C++
+CSCI 212 3 credits
+OOP in Java
+CSCI 220 3 credits
+Discrete Structures
+CSCI 240 3 credits
+Computer Organization and Assembly Language
+One Writing Intensive Unit (W) 3 credits
+Spring total credits 15 credits
+*If a Literature course is taken with a W, it will count towards Literature and one Writing Intensive Unit.
+General Education requirements may be taken in any order if the pre-requisite requirement(s) is/are satisfied
+¥ Students who fail or withdraw from this course multiple times may be prohibited from majoring in the sciences or
+ mathematics; see your department for questions.
+β *The Computer Science Department will substitute CSCI 120 (taken at QC or transferred) for MATH 120. Contact the Computer Science
+ department for a substitution in Degree Works and questions.
+Freshman
+QUEENS COLLEGE
+Computer Science BS
+FOUR YEAR ACADEMIC PLAN
+Junior
+Senior
+FALL
+CSCI 313 3 credits
+Data Structures
+CSCI 320 3 credits
+Theory of Computation
+CSCI 343 3 credits
+Computer Architecture
+MATH 241 3 credits
+Probability & Statistics
+MATH 231¥ or 237 4 credits
+Linear Algebra
+Fall total credits 16 credits
+SPRING
+CSCI 323 3 credits
+Design & Analysis of Algorithms
+CSCI 331 3 credits
+Database Systems
+CSCI 340 3 credits
+Operating Systems
+CSCI 316 3 credits
+Principles of Programming Languages
+First Computer Science Elective** 3 credits
+Spring total credits 15 credits
+FALL
+Second Computer Science Elective** 3 credits
+CSCI 370 3 credits
+Software Engineering
+Third Computer Science Elective** 3 credits
+Fourth Computer Science Elective** 3 credits
+College Option Science (SCI) 3 credits
+Fall total credits 15 credits
+SPRING
+Fifth Computer Science Elective** 3 credits
+Sixth Computer Science Elective** 3 credits
+Seventh Computer Science Elective** 3 credits
+Life & Physical Science (LPS) 4 credits
+General elective 3 credits
+Spring total credits 16 credits
+** 21 credits of computer science courses numbered CSCI 300 –396. One course from the following list may be used unless it has been applied
+towards the fulfillment of the math or science requirements for the major: BIOL 330; MATH 202, 223, 224, 232, 242, 245, 247, 248, 317, 333, 337,
+341, 342, 609, 613, 619, 621, 623, 624, 625, 626, 633, 634, 635, or 636; PHYS 225, 227, 265, or 311.
+No more than 3 credits of CSCI 390 through 395 may be used as part of the major without the approval of the Honors and Awards Committee.
+***General Electives: Students may complete general electives by taking courses in (most) department/s or programs they choose; however, depending on the
+course/program, students may need department permission and/or prerequisite course/s. Electives may be used to supplement the chosen major (an English
+major may want to take a course in French or Italian literature) or to fulfill interest in a different area (a Music major may be interested in the physics of sound).
+Students are encouraged to use available electives to complete a dual major, minor, pre-requisites for graduate or professional school, or complete and
+internship, experiential learning and/or study abroad. Students are encouraged to use their available general electives wisely and focus on coursework that will
+assist them personally, academically and professionally. 

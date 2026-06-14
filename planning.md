@@ -147,33 +147,32 @@ top-k = 5 chunks                   chunks passed as context
      with my specified chunk size and overlap" is a plan. -->
 
 **Stage 1 — Document ingestion:**
-I'll give Claude the list of 10 sources from the Documents section above and ask it 
-to write a `load_documents()` function that reads from local `.txt` files and returns 
+I'll give Claude the list of 10 sources from the Documents section above and ask it to write a `load_documents()` function that reads from local `.txt` files and returns 
 a list of document strings with metadata (source name, URL).
 
 **Stage 2 — Chunking:**
-I'll give Claude the Chunking Strategy section of this planning.md and ask it to 
-implement a `chunk_text()` function using a 350-token chunk size with 50-token 
+I'll give Claude the Chunking Strategy section of this planning.md and ask it to implement a `chunk_text()` function using a 350-token chunk size with 50-token 
 overlap. I'll specify that it should use the `tiktoken` library for token counting.
 
 **Stage 3 — Embedding + vector store:**
-I'll give Claude the Retrieval Approach section and ask it to implement 
-`embed_and_store()` using sentence-transformers (all-MiniLM-L6-v2) and ChromaDB as 
+I'll give Claude the Retrieval Approach section and ask it to implement `embed_and_store()` using sentence-transformers (all-MiniLM-L6-v2) and ChromaDB as 
 the vector store.
 
 **Stage 4 — Retrieval:**
-I'll give Claude the retrieval section and ask it to implement a `retrieve()` function 
-that takes a query string and returns the top 5 most relevant chunks from ChromaDB.
+I'll give Claude the retrieval section and ask it to implement a `retrieve()` function that takes a query string and returns the top 5 most relevant chunks from ChromaDB.
 
 **Stage 5 — Generation:**
-I'll give Claude the full pipeline context and ask it to implement the final 
-`generate_response()` function that takes retrieved chunks, formats them as context, 
-and calls the OpenAI API to produce an answer.
+I'll give Claude the full pipeline context and ask it to implement the final `generate_response()` function that takes retrieved chunks, formats them as context, and calls the OpenAI API to produce an answer.
 
 ---
 
 **Milestone 3 — Ingestion and chunking:**
+I'll give Claude the Documents section and Chunking Strategy section of this planning.md and ask it to implement `load_documents()` and `chunk_text()`. I'll 
+verify the output by printing sample chunks and confirming they're ~350 tokens with visible overlap between consecutive chunks.
 
 **Milestone 4 — Embedding and retrieval:**
+I'll give Claude the Retrieval Approach section and ask it to implement `embed_and_store()` and `retrieve()` using all-MiniLM-L6-v2 and ChromaDB. I'll verify by running my 5 eval questions as queries and checking that the returned chunks are actually relevant to the question.
 
 **Milestone 5 — Generation and interface:**
+I'll give Claude the full planning.md and ask it to implement `generate_response()` that formats retrieved chunks as context and calls the OpenAI API. I'll verify by 
+running all 5 eval questions end-to-end and checking responses against my expected answers in the Evaluation Plan.

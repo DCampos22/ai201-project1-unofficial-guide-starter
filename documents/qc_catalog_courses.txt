@@ -1,0 +1,80 @@
+Skip to Main Content
+About QCAdmissionsAcademicsStudent LifeCommunity OutreachMake A Gift
+Catalog Home Page
+
+Download as PDF
+Department: Computer Science
+Overview
+Courses
+Faculty
+Programs
+Code	Course Title	Credits	Requirement Designation	Course Attributes	Components	Academic Career
+CSCI 12	Introduction to Computers and Computation	3	Required Core - Mathematical&QuantitativeReasoning	MEAC - ME_ACCO_1 (Intro Computer Info Sys & Tech)	2 Laboratory Hours, 2 Lecture Hours	Undergraduate
+CSCI 48	Spreadsheet Programming	3	Required Core - Mathematical&QuantitativeReasoning	MEAC - ME_ACCO_1 (Intro Computer Info Sys & Tech), MEFI - ME_FINA_1 (Intro Computer Info Sys & Tech), UTAC - UT_ACCT_8 (Intro to Computer Info Systems)	2 Laboratory Hours, 2 Lecture Hours	Undergraduate
+CSCI 66	Computer Applications for Prospective Mathematics Teachers	3	-	-	4 Lecture Hours	Undergraduate
+CSCI 80	Problem Solving with Computers	3	-	-	2 Laboratory Hours, 2 Lecture Hours	Undergraduate
+CSCI 81	Introduction to Web Programming	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 82	Multimedia Fundamentals and Applications	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 84	Models of Computation	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 85	Database Application Programming	3	-	MECI - ME_COIS_4 (Database)	3 Lecture Hours	Undergraduate
+CSCI 86	Science, Computing Tools, and Instrumentation	3	-	-	4 Lecture Hours	Undergraduate
+CSCI 87	Introduction to Scientific Computing	3	-	-	2 Laboratory Hours, 2 Lecture Hours	Undergraduate
+CSCI 88	Advanced Productivity Tools for Business	3	-	-	2 Laboratory Hours, 2 Lecture Hours	Undergraduate
+CSCI 90	Topics in Computing	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 100	Information and Intelligence	3	Flexible Core - Scientific World	COPT - QNSSCI (QC Science)	3 Lecture Hours	Undergraduate
+CSCI 101	Introduction to Computer Science	4	-	-	4 Lecture Hours	Undergraduate
+CSCI 111	Introduction to Algorithmic Problem Solving	3	Flexible Core - Scientific World	COPT - QNSSCI (QC Science), MECI - ME_COIS_2 (Programming I), UTCO - UT_COSC_1 (Programming I)	2 Laboratory Hours, 2 Lecture Hours	Undergraduate
+CSCI 112	Introduction to Algorithmic Problem Solving in Java	3	Required Core - Mathematical&QuantitativeReasoning	-	2 Laboratory Hours, 2 Lecture Hours	Undergraduate
+CSCI 120	Discrete Mathematics for Cross-Disciplinary Minors	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 211	Object-Oriented Programming in C++	3	Required Core - Mathematical&QuantitativeReasoning	MECI - ME_COIS_3 (Programming II), UTCO - UT_COSC_2 (Programming II)	2 Laboratory Hours, 2 Lecture Hours	Undergraduate
+CSCI 212	Object-Oriented Programming in Java	3	Required Core - Mathematical&QuantitativeReasoning	UTCO - UT_COSC_2 (Programming II)	2 Laboratory Hours, 2 Lecture Hours	Undergraduate
+CSCI 220	Discrete Structures	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 240	Computer Organization and Assembly Language	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 310	WWW Programming	1	-	-	1 Lecture Hours	Undergraduate
+CSCI 313	Data Structures	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 314	Data Structures for Cross-Disciplinary Minors	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 316	Principles of Programming Languages	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 317	Compilers	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 320	Theory of Computation	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 323	Design and Analysis of Algorithms	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 325	Machine Learning	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 328	Algorithms for Big Data	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 331	Database Systems	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 332	Object-Oriented Databases	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 334	Data Mining and Warehousing	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 335	Information Organization and Retrieval	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 340	Operating Systems Principles	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 342	Operating-System Programming	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 343	Computer Architecture	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 344	Distributed Systems	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 345	Logic Design Lab	3	-	-	6 Lecture Hours	Undergraduate
+CSCI 346	Cloud Computing	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 348	Data Communications	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 352	Cryptography	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 355	Internet and Web Technologies	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 357	Corpus Analysis	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 361	Numerical Methods	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 363	Artificial Intelligence	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 365	Computational Finance	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 366	Natural Language Processing	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 367	Digital Image Processing	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 368	Computer Graphics	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 370	Software Engineering	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 380	VT: Software Systems Practicum	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 381	Special Topics in Computer Science	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 383	VT: Computer Science Synthesis	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 385	VT: Computer Science Capstone	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 390	Honors Readings in Computer Science	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 393	Honors Thesis	3	-	-	3 Thesis Research Hours	Undergraduate
+CSCI 399	Honors Readings in Computer Science	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 3811	Special Topics in Computer Science	1	-	-	1 Lecture Hours	Undergraduate
+CSCI 3812	Special Topics in Computer Science	2	-	-	2 Lecture Hours	Undergraduate
+CSCI 3911	Honors Problems in Computer Science	1	-	-	1 Lecture Hours	Undergraduate
+CSCI 3912	Honors Problems in Computer Science	2	-	-	2 Lecture Hours	Undergraduate
+CSCI 3913	Honors Problems in Computer Science	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 3951	Research Projects	1	-	-	1 Lecture Hours	Undergraduate
+CSCI 3952	Research Projects	2	-	-	2 Lecture Hours	Undergraduate
+CSCI 3953	Research Projects	3	-	-	3 Lecture Hours	Undergraduate
+CSCI 3981	Internship	1	-	-	3 Internship Hours	Undergraduate
+CSCI 3982	Internship in Computer Science	2	-	-	6 Lecture Hours	Undergraduate
+CSCI 3983	Internship	3	-	-	9 Internship Hours	Undergraduate
