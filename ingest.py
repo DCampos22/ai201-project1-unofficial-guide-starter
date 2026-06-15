@@ -61,6 +61,10 @@ def clean_text(text):
     ]
     for phrase in boilerplate:
         text = text.replace(phrase, "")
+    text = re.sub(r"\d+ upvotes.*?comments", "", text)
+    text = re.sub(r"r/\w+ •.*?comments", "", text, flags=re.DOTALL)
+    # Remove Jira/Atlassian ad text specifically
+    text = re.sub(r"Get from discovery to delivery.*?Jira Product Discovery\.", "", text, flags=re.DOTALL)
     # Remove copyright lines and avatar lines
     text = re.sub(r"Catalog Home Page\s*\n+\s*Download as PDF", "", text)
     text = re.sub(r"(•\s*Promoted|Promoted).*?(?=Comments Section|\d+[yo] ago|$)", "", text, flags=re.DOTALL)
